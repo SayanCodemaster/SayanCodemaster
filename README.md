@@ -45,7 +45,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sayan-paul-51b725207/)
 - 📧 [MailID](paulsayan980@gmail.com)
-- 🗂️ Portfolio (Coming soon...)
+- 🗂️ [Portfolio](https://sayan-paul-portfolio.vercel.app/)
 
 ---
 
