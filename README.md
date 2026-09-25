@@ -68,9 +68,7 @@ My goal is to create projects that solve real-world problems while continuously 
 
 ### 💻 Languages
 - Python
-- C++
-- JavaScript
-- TypeScript
+- Java
 - SQL
 
 ### 🤖 AI / Machine Learning
